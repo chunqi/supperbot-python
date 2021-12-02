@@ -1,0 +1,337 @@
+{
+    "Thai Kitchen": {
+        "Mee / Beehoon / Kwayteow / Maggie": {
+            "Tomyam": {
+                "T30 Tomyam (Beef Mee)": 650,
+                "T30 Tomyam (Beef Beehoon)": 650,
+                "T30 Tomyam (Beef Kwayteow)": 650,
+                "T30 Tomyam (Beef Maggie)": 650,
+                "T30 Tomyam (Chicken Mee)": 650,
+                "T30 Tomyam (Chicken Beehoon)": 650,
+                "T30 Tomyam (Chicken Kwayteow)": 650,
+                "T30 Tomyam (Chicken Maggie)": 650,
+                "T30 Tomyam (Seafood Mee)": 650,
+                "T30 Tomyam (Seafood Beehoon)": 650,
+                "T30 Tomyam (Seafood Kwayteow)": 650,
+                "T30 Tomyam (Seafood Maggie)": 650
+            },
+            "Bandung Soup": {
+                "T31 Bandung Soup (Mee)": 450,
+                "T31 Bandung Soup (Beehoon)": 450,
+                "T31 Bandung Soup (Kwayteow)": 450,
+                "T31 Bandung Soup (Maggie)": 450
+            },
+            "Hong Kong": {
+                "T32 Hong Kong (Mee)": 450,
+                "T32 Hong Kong (Beehoon)": 450,
+                "T32 Hong Kong (Kwayteow)": 450,
+                "T32 Hong Kong (Maggie)": 450
+            },
+            "Hailam": {
+                "T33 Hailam (Mee)": 450,
+                "T33 Hailam (Beehoon)": 450,
+                "T33 Hailam (Kwayteow)": 450,
+                "T33 Hailam (Maggie)": 450
+            },
+            "Thai Style Fried w/ Chicken Prawn and Cuttlefish": {
+                "T34 Thai Style Fried (Mee)": 480,
+                "T34 Thai Style Fried (Beehoon)": 480,
+                "T34 Thai Style Fried (Kwayteow)": 480,
+                "T34 Thai Style Fried (Maggie)": 480
+            },
+            "Sambal Style Fried w/ Chicken": {
+                "T35 Sambal Style Fried (Mee)": 450,
+                "T35 Sambal Style Fried (Beehoon)": 450,
+                "T35 Sambal Style Fried (Kwayteow)": 450,
+                "T35 Sambal Style Fried (Maggie)": 450
+            },
+            "Chinese Style Fried": {
+                "T36 Chinese Style Fried (Mee)": 450,
+                "T36 Chinese Style Fried (Beehoon)": 450,
+                "T36 Chinese Style Fried (Kwayteow)": 450,
+                "T36 Chinese Style Fried (Maggie)": 450
+            },
+            "Fried w/ Beef": {
+                "T37 Fried w/ Beef (Mee)": 450,
+                "T37 Fried w/ Beef (Beehoon)": 450,
+                "T37 Fried w/ Beef (Kwayteow)": 450,
+                "T37 Fried w/ Beef (Maggie)": 450
+            },
+            "Fried w/ Seafood": {
+                "T38 Fried w/ Seafood (Mee)": 450,
+                "T38 Fried w/ Seafood (Beehoon)": 450,
+                "T38 Fried w/ Seafood (Kwayteow)": 450,
+                "T38 Fried w/ Seafood (Maggie)": 450
+            },
+            "Pataya": {
+                "T39 Pataya (Beef Mee)": 550,
+                "T39 Pataya (Beef Beehoon)": 550,
+                "T39 Pataya (Beef Kwayteow)": 550,
+                "T39 Pataya (Beef Maggie)": 550,
+                "T39 Pataya (Chicken Mee)": 550,
+                "T39 Pataya (Chicken Beehoon)": 550,
+                "T39 Pataya (Chicken Kwayteow)": 550,
+                "T39 Pataya (Chicken Maggie)": 550,
+                "T39 Pataya (Seafood Mee)": 550,
+                "T39 Pataya (Seafood Beehoon)": 550,
+                "T39 Pataya (Seafood Kwayteow)": 550,
+                "T39 Pataya (Seafood Maggie)": 550
+            },
+            "Fried with Cockles": {
+                "T40 Fried with Cockles (Mee)": 450,
+                "T40 Fried with Cockles (Beehoon)": 450,
+                "T40 Fried with Cockles (Kwayteow)": 450,
+                "T40 Fried with Cockles (Maggie)": 450
+            }
+        },
+        "Steam Rice w/ Chicken / Beef / Sliced Fish / Cuttlefish / Prawn": {
+            "Steam Rice w/ Chicken": {
+                "T41 Steam Rice w/ Chicken (Hot & Spicy)": 480,
+                "T42 Steam Rice w/ Chicken (Black Oyster Sauce)": 480,
+                "T43 Steam Rice w/ Chicken (Sweet & Sour)": 480,
+                "T44 Steam Rice w/ Chicken (Black Pepper)": 480,
+                "T45 Steam Rice w/ Chicken (Ginger Brown Sauce)": 480,
+                "T46 Steam Rice w/ Chicken (Mui Fan)": 450
+            },
+            "Steam Rice w/ Beef": {
+                "T41 Steam Rice w/ Beef (Hot & Spicy)": 480,
+                "T42 Steam Rice w/ Beef (Black Oyster Sauce)": 480,
+                "T43 Steam Rice w/ Beef (Sweet & Sour)": 480,
+                "T44 Steam Rice w/ Beef (Black Pepper)": 480,
+                "T45 Steam Rice w/ Beef (Ginger Brown Sauce)": 480,
+                "T46 Steam Rice w/ Beef (Mui Fan)": 450
+            },
+            "Steam Rice w/ Sliced Fish": {
+                "T41 Steam Rice w/ Sliced Fish (Hot & Spicy)": 480,
+                "T42 Steam Rice w/ Sliced Fish (Black Oyster Sauce)": 480,
+                "T43 Steam Rice w/ Sliced Fish (Sweet & Sour)": 480,
+                "T44 Steam Rice w/ Sliced Fish (Black Pepper)": 480,
+                "T45 Steam Rice w/ Sliced Fish (Ginger Brown Sauce)": 480,
+                "T46 Steam Rice w/ Sliced Fish (Mui Fan)": 450
+            },
+            "Steam Rice w/ Cuttlefish": {
+                "T41 Steam Rice w/ Cuttlefish (Hot & Spicy)": 480,
+                "T42 Steam Rice w/ Cuttlefish (Black Oyster Sauce)": 480,
+                "T43 Steam Rice w/ Cuttlefish (Sweet & Sour)": 480,
+                "T44 Steam Rice w/ Cuttlefish (Black Pepper)": 480,
+                "T45 Steam Rice w/ Cuttlefish (Ginger Brown Sauce)": 480,
+                "T46 Steam Rice w/ Cuttlefish (Mui Fan)": 450
+            },
+            "Steam Rice w/ Prawn": {
+                "T41 Steam Rice w/ Prawn (Hot & Spicy)": 480,
+                "T42 Steam Rice w/ Prawn (Black Oyster Sauce)": 480,
+                "T43 Steam Rice w/ Prawn (Sweet & Sour)": 480,
+                "T44 Steam Rice w/ Prawn (Black Pepper)": 480,
+                "T45 Steam Rice w/ Prawn (Ginger Brown Sauce)": 480,
+                "T46 Steam Rice w/ Prawn (Mui Fan)": 450
+            }
+        },
+        "Fried Rice": {
+            "T47 FR Chinese Style w/ Chicken": 400,
+            "T48 FR Thai Style w/ Chicken Prawn Cuttlefish": 480,
+            "T49 FR Ikan Bilis & Egg": 450,
+            "T50 FR Tomato & Chicken": 450,
+            "T51 FR Fried Chicken w/ Chilli Sauce": 450,
+            "T52 FR Salted Fish": 400,
+            "T53 FR Kampong Style (Regular)": 480,
+            "T53 FR Kampong Style (Large)": 600,
+            "T54 FR Cockles": 450,
+            "T55 FR Pataya (Chicken)": 550,
+            "T55 FR Pataya (Beef)": 550,
+            "T55 FR Pataya (Seafood)": 550,
+            "T56 FR Chinese Style w/ Red Chilli Beef": 550,
+            "T56 FR Thai Style w/ Red Chilli Beef": 550,
+            "T57 FR Chinese Style Hot & Spicy (Chicken)": 550,
+            "T57 FR Chinese Style Hot & Spicy (Seafood)": 550,
+            "T58 FR Thai Style Hot & Spicy (Chicken)": 550,
+            "T58 FR Thai Style Hot & Spicy (Seafood)": 550,
+            "T59 FR Chinese Style w/ Black Oyster Sauce (Beef)": 550,
+            "T59 FR Chinese Style w/ Black Oyster Sauce (Chicken)": 550,
+            "T60 FR Button Mushroom & Egg": 450,
+            "T61 FR Sambal Mushroom & Chicken": 550,
+            "T62 FR 3 Tastes (Sweet Sour Spicy) w/ Chicken & Seafood": 600,
+            "T63 FR Sambal w/ Fried Sambal Chicken": 550,
+            "T64 FR Black Pepper (Chicken)": 550,
+            "T64 FR Black Pepper (Beef)": 550,
+            "T65 FR Pineapple w/ Chicken & Seafood": 500,
+            "T66 FR Chinese Style w/ Sweet & Sour (Chicken)": 550,
+            "T66 FR Chinese Style w/ Sweet & Sour (Sliced Fish)": 550,
+            "T67 FR Chinese Style w/ Ginger Brown Sauce (Chicken)": 550,
+            "T67 FR Chinese Style w/ Ginger Brown Sauce (Beef)": 550,
+            "T68 FR Thai Style w/ Crispy Ginger Yellow Chicken & Egg": 600,
+            "T69 FR Bush (Yellow FR w/ Egg Hot & Spicy Chicken)": 600,
+            "T70 FR Obama (Yellow FR w/ Egg Hot & Spicy Beef)": 600,
+            "T71 FR Thai Style w/ Chicken Egg Sambal": 550,
+            "T71 FR Chinese Style w/ Chicken Egg Sambal": 550,
+            "T72 FR Al Amaan (Special)": 700
+        }
+    },
+    "Indian Kitchen": {
+        "Breads & Naans": {
+            "N13 Plain Naan": 150,
+            "N14 Butter Naan": 170,
+            "N15 Garlic Naan": 250,
+            "N16 Kashmiri Naan": 400,
+            "N17 Cheese Naan": 300,
+            "N18 Kheema Naan": 400,
+            "N19 Aloo Pratha": 250,
+            "N20 Poodina Pratha": 200,
+            "N21 Garlic & Onion Kulcha": 350,
+            "N22 Tandoori Roti": 150,
+            "N23 Paneer Kulcha": 300
+        },
+        "Chicken": {
+            "N24 Chicken Korma": 700,
+            "N25 Chicken Spinach": 700,
+            "N26 Chicken Masala": 700,
+            "N27 Chicken Vartha": 700,
+            "N28 Chicken Jalfrazzi": 800,
+            "N29 Chicken Muglai": 700,
+            "N30 Butter Chicken": 700,
+            "N31 Chicken Tikka Masala": 700,
+            "N32 Kadai Chicken": 800
+        },
+        "Rice": {
+            "N33 Chicken Briyani": 600,
+            "N34 Mutton Briyani": 600,
+            "N35 Prawn Briyani": 700,
+            "N36 Vegetable Briyani": 500,
+            "N37 Kashmiri Pulao": 400,
+            "N38 Jeera Rice (Basmati)": 350,
+            "N39 Pain White Rice (Basmati)": 150
+        },
+        "Mutton": {
+            "N40 Mutton Masala": 700,
+            "N41 Mutton Do Piaza": 800,
+            "N42 Mutton Spinach": 800,
+            "N43 Kadai Mutton": 800,
+            "N44 Mutton Kheema": 500,
+            "N45 Mutton Korma": 700,
+            "N46 Mutton Rogan Josh": 700,
+            "N47 Mutton Vindaloo": 800
+        },
+        "Seafood": {
+            "N48 Kadai Fish": 800,
+            "N49 Fish Vindaloo": 800,
+            "N50 Madras Fish Curry": 700,
+            "N51 Fish Masala": 700,
+            "N52 Kadai Prawn": 800,
+            "N53 Prawn Vindaloo": 800,
+            "N54 Prawn Masala": 700,
+            "N55 Prawn Curry": 700,
+            "N56 Prawn Do Piaza": 800,
+            "N57 Chilli Prawn": 800,
+            "N58 Fish Head Curry": 1500
+        },
+        "Vegetables": {
+            "N59 Paneer Butter Masala": 700,
+            "N60 Palak Paneer": 700,
+            "N61 Kadai Paneer": 800,
+            "N62 Shai Paneer": 700,
+            "N63 Mattar Paneer": 700,
+            "N64 Aloo Mattar Makani": 500,
+            "N65 Mix Vegetable Curry": 500,
+            "N66 Vegetable Makani": 500,
+            "N67 Channa Masala": 500,
+            "N68 Dal Makani": 500,
+            "N69 Yellow Dal": 300,
+            "N70 Dal Palak": 500,
+            "N71 Bhindi Masala": 500,
+            "N72 Brinjal Masala": 500,
+            "N73 Mixed Raita": 400,
+            "N74 Plain Yoghurt": 300,
+            "N75 Navrattan Korma": 600,
+            "N76 Malai Kofta": 500,
+            "N77 Paneer Tikka Masala": 800,
+            "N78 Green Indian Salad": 300,
+            "N79 Gobi Manchurian": 600,
+            "N80 Chilli Panner": 800,
+            "N81 Aloo Gobi": 500
+        }
+    },
+    "Western Kitchen": {
+        "Finger Food": {
+            "W01 Mushroom Soup (Cream)": 300,
+            "W02 French Fries": 300,
+            "W03 Mashed Potato": 200,
+            "W04 Coleslaw": 150,
+            "W05 Chicken Nuggets (7pcs)": 400,
+            "W06 Chicken Wing Set (2pcs)": 350,
+            "W07 Chicken Wing Set (3pcs)": 450,
+            "W08 Cheese Fries (Regular)": 400,
+            "W09 Garlic Bread": 200,
+            "W10 Hot Wings (min 2pcs)": 150,
+            "W11 Spring Chicken": 900,
+            "W08 Cheese Fries (Large)": 600
+        },
+        "Pasta": {
+            "W12 Chicken Pasta": 600,
+            "W13 Beef Bologonaise": 650,
+            "W14 Seafood Marinara": 650,
+            "W15 Mushroom & Chicken Pasta": 650,
+            "W16 Mushroom Olio (Regular)": 500,
+            "W16 Mushroom Olio (Large)": 800,
+            "W17 Seafood Olio": 600,
+            "W18 Sausage Carbonara (Regular)": 650
+        },
+        "Salad": {
+            "W19 Garden Salad": 400,
+            "W20 Green Pleasure Salad": 400,
+            "W21 Chicken Salad": 600,
+            "W22 Prawn Salad": 600
+        },
+        "Kebab": {
+            "W23 Kebab (Original)": 400,
+            "W24 Kebab (w/ Cheese)": 450
+        },
+        "Roti John": {
+            "W25 Roti John": 400,
+            "W26 Roti John (Cheese)": 450,
+            "W27 Roti John (Mushroom)": 450,
+            "W28 Roti John (Black Pepper)": 450,
+            "W29 Roti John (Mushroom & Cheese)": 480,
+            "W30 Roti John (Combo)": 500
+        },
+        "Burger": {
+            "W31 Fried Fish Burger": 600,
+            "W32 Grilled Chicken Burger": 600,
+            "W33 Grilled Beef Burger": 600,
+            "W34 Grilled Lamb Burger": 600
+        },
+        "Fish": {
+            "W35 Fish & Chips": 700,
+            "W36 Grilled Fish": 700,
+            "W37 Garlic Fish": 700
+        },
+        "Lamb": {
+            "W38 BBQ Lamb": 800,
+            "W39 Black Pepper Lamb": 800,
+            "W40 Mushroom Lamb": 800,
+            "W41 Medina Lamb": 900
+        },
+        "Steak": {
+            "W42 Mushroom Steak": 800,
+            "W43 Black Pepper Steak": 800,
+            "W44 Sirloin Steak": 800,
+            "W45 Al Amaan Sirloin Steak": 900,
+            "W46 Al Amaan All Time Specials Mix Grill": 1200
+        },
+        "Chicken": {
+            "W47 Grilled Mushroom Chicken": 800,
+            "W48 Grilled Black Pepper Chicken": 800,
+            "W49 Grilled Chicken Chop": 800,
+            "W50 Chicken Cutlet": 800
+        }
+    },
+    "Drinks": {
+        "D57 Iced Milo": 150,
+        "D70 Iced Limau": 130,
+        "Iced Neslo": 180,
+        "Iced Bandung": 120,
+        "Iced Milo Cino": 250,
+        "D64 Iced Teh Cino": 200
+    },
+    "Desserts": {
+        "Red Bean Ice Kachang": 300
+    }
+}
